@@ -1,0 +1,7 @@
+order	id	pri_category	mathjax	jwst	title
+0	2512.11954	Astrophysics of Galaxies (astro-ph.GA)	False	False	Eccentric Binaries Accreting from Thin Disks: Orbital Evolution
+3	2512.11958	Astrophysics of Galaxies (astro-ph.GA)	False	False	Modeling the Milky Way Circumnuclear Disk: Rosettes and Rings
+5	2512.11960	Astrophysics of Galaxies (astro-ph.GA)	False	False	Cosmic Duets I. High-spatial resolution spectroscopy of dual and lensed AGN with MUSE
+7	2512.11961	High Energy Astrophysical Phenomena (astro-ph.HE)	True	False	Probing jet-induced optical variability across timescales in radio-loud NLSy1 galaxies
+5	2512.11964	Astrophysics of Galaxies (astro-ph.GA)	True	False	The MeerKLASS UHF On-the-Fly Continuum Survey -- Data Release I
+11	2512.11985	Astrophysics of Galaxies (astro-ph.GA)	True	True	High-Redshift Galaxy Candidates at z > 6 as Revealed by JWST Observations of MACS0647
