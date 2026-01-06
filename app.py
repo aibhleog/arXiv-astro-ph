@@ -19,6 +19,10 @@ def message_hello(message, say):
 #     # say() sends a message to the channel where the event was triggered
 #     say(f"Hey there!")
 
+@app.event("message")
+def handle_message_events(body, logger):
+    logger.info(body)
+
 
 # running the arxiv call
 @app.event("app_mention")

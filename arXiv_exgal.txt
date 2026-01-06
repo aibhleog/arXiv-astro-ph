@@ -1,7 +1,59 @@
-order	id	pri_category	mathjax	jwst	title
-0	2512.11954	Astrophysics of Galaxies (astro-ph.GA)	False	False	Eccentric Binaries Accreting from Thin Disks: Orbital Evolution
-3	2512.11958	Astrophysics of Galaxies (astro-ph.GA)	False	False	Modeling the Milky Way Circumnuclear Disk: Rosettes and Rings
-5	2512.11960	Astrophysics of Galaxies (astro-ph.GA)	False	False	Cosmic Duets I. High-spatial resolution spectroscopy of dual and lensed AGN with MUSE
-7	2512.11961	High Energy Astrophysical Phenomena (astro-ph.HE)	True	False	Probing jet-induced optical variability across timescales in radio-loud NLSy1 galaxies
-5	2512.11964	Astrophysics of Galaxies (astro-ph.GA)	True	False	The MeerKLASS UHF On-the-Fly Continuum Survey -- Data Release I
-11	2512.11985	Astrophysics of Galaxies (astro-ph.GA)	True	True	High-Redshift Galaxy Candidates at z > 6 as Revealed by JWST Observations of MACS0647
+order	id	pri_category	mathjax	jwst	title	sim	z
+0	2512.17964	Astrophysics of Galaxies (astro-ph.GA)	False	False	A Correlation Between Black Hole Mass and Dark Matter Halo Concentration in Cosmological Simulations	True	False
+4	2512.17997	High Energy Astrophysical Phenomena (astro-ph.HE)	False	True	Pulsational Instability of Quasi-Stars: Interpreting the Variability of Little Red Dots	False	True
+5	2512.17998	Astrophysics of Galaxies (astro-ph.GA)	False	False	First-Principles Formalism for Simulating Self-Interacting Dark Matter	True	False
+6	2512.18000	Cosmology and Nongalactic Astrophysics (astro-ph.CO)	False	True	The Clustering of Little Red Dots from Ultra-Strongly Self-Interacting Dark Matter	False	True
+8	2512.18012	Astrophysics of Galaxies (astro-ph.GA)	False	False	Widespread Shocks in an Odd Radio Circle Host Galaxy	False	False
+0	2512.18076	Astrophysics of Galaxies (astro-ph.GA)	True	False	Precision Spectroscopy for 1.9 Million Galaxies from SDSS-IV: Improved Spectral Measurements and Catalogs for eBOSS	False	False
+4	2512.18260	Instrumentation and Methods for Astrophysics (astro-ph.IM)	True	False	Unlocking the physics of dwarf galaxies in the 2040s: The case for a next-generation wide-field spectroscopic facility with fibres and IFUs	False	False
+1	2512.18276	Astrophysics of Galaxies (astro-ph.GA)	True	False	Discovery of a Luminosity-dependent Continuum Lag in NGC 4151 from Photometric and Spectroscopic Continuum Reverberation Mapping	False	False
+3	2512.18281	Astrophysics of Galaxies (astro-ph.GA)	True	False	"Measurements of quasar proximity zones with the Lyman-α
+forest of DESI Y1 quasars"	False	True
+3	2512.18341	Earth and Planetary Astrophysics (astro-ph.EP)	True	False	The size of 3I/ATLAS from non-gravitational acceleration	False	False
+27	2512.18369	Instrumentation and Methods for Astrophysics (astro-ph.IM)	False	False	Standard Sirens in 2040s: Probing the Cosmic Expansion History with Gravitational Waves and Spectroscopic Galaxy Surveys	False	False
+29	2512.18421	Astrophysics of Galaxies (astro-ph.GA)	False	False	The evolution of obscured AGN across cosmic time -- A large quasar survey for the 2040s	False	True
+3	2512.18423	Solar and Stellar Astrophysics (astro-ph.SR)	True	False	Unveiling Long-Period Variables in M33's Central Region: Insights into Stellar Evolution and Star Formation via Near-Infrared Photometry	False	False
+37	2512.18577	Astrophysics of Galaxies (astro-ph.GA)	False	False	The Extended Baryonic Tully-Fisher Relation for MaNGA Galaxies	True	False
+38	2512.18624	Astrophysics of Galaxies (astro-ph.GA)	False	False	Linear Analyses of Thermal Instability in Stratified Medium	False	False
+41	2512.18693	Astrophysics of Galaxies (astro-ph.GA)	False	False	Towards Understanding the Milky Way's Matter Field and Dynamical Accretion History based on AI-GS3 Hunter	False	False
+42	2512.18708	Astrophysics of Galaxies (astro-ph.GA)	False	False	Towards Unveiling the Origins of the Milky Way Bulge through Multi-band-Messenger Sky Surveys	False	False
+2	2512.18805	Astrophysics of Galaxies (astro-ph.GA)	True	True	Spider-Webb: Spatially-Resolved Evidence of Inside-Out Quenching in the Spiderweb Protocluster at z \sim 2	False	True
+7	2512.18870	Astrophysics of Galaxies (astro-ph.GA)	True	False	Orbital classification in rotating bar potentials using an empirical proxy of the second integral of motion	False	False
+55	2512.18945	Astrophysics of Galaxies (astro-ph.GA)	False	False	Validating the CROCODILE model within the AGORA galaxy simulation framework	False	False
+3	2512.18992	Astrophysics of Galaxies (astro-ph.GA)	True	False	Fragmenting Filaments and Evolving Cores -- Insights from Dust Polarisation Study of a filament in Northern Orion B	False	False
+59	2512.19074	Astrophysics of Galaxies (astro-ph.GA)	False	False	The Milky Way Bulge Extra-Tidal Star Survey: NGC 6569	False	False
+9	2512.19118	Astrophysics of Galaxies (astro-ph.GA)	True	False	GW231123: A Case for Binary Microlensing in a Strong Lensing Field	False	False
+19	2512.19185	Astrophysics of Galaxies (astro-ph.GA)	True	False	ALMA Observations of Cold Methanol Gas in the Large Magellanic Cloud (LMC): N79 South GMC	False	False
+75	2512.19236	Astrophysics of Galaxies (astro-ph.GA)	False	False	Dynamically close galaxy pairs from the unWISE survey: Testing the merger-AGN-star formation connection	False	False
+78	2512.19262	Instrumentation and Methods for Astrophysics (astro-ph.IM)	False	False	Observations of the 21 cm HI Line from the Milky Way galaxy using Pyramidal Horn Radio Telescope	False	False
+81	2512.19310	Astrophysics of Galaxies (astro-ph.GA)	False	False	Galaxy And Mass Assembly (GAMA): Deconstructing the galaxy stellar mass function by star formation and environment	False	False
+6	2512.19444	Instrumentation and Methods for Astrophysics (astro-ph.IM)	True	False	GALATEA: The 15-m Galactic Archaeology Spectroscopic Surveyor	False	False
+1	2512.19471	Cosmology and Nongalactic Astrophysics (astro-ph.CO)	True	False	Revealing the intricacies of radio galaxies and filaments in the merging galaxy cluster Abell 2255. II. Properties of filaments using multi-frequency radio data	False	False
+6	2512.19591	Astrophysics of Galaxies (astro-ph.GA)	True	False	Impact of Galaxy Cluster Environment on the Stellar Mass Function of Galaxies	False	False
+6	2512.19626	Astrophysics of Galaxies (astro-ph.GA)	True	False	Deep Hα survey of the Coma cluster: The Catalog	False	False
+10	2512.19652	Solar and Stellar Astrophysics (astro-ph.SR)	True	False	High-Precision Differential Radial Velocities of C3PO Wide Binaries: A Test of Modified Newtonian Dynamics (MOND)	False	False
+0	2512.19666	Cosmology and Nongalactic Astrophysics (astro-ph.CO)	True	True	A cosmologist's take on Little Red Dots	False	True
+16	2512.19695	Astrophysics of Galaxies (astro-ph.GA)	True	True	Ionizing Photon Production Efficiencies and Chemical Abundances at Cosmic Dawn Revealed by Ultra-Deep Rest-Frame Optical Spectroscopy of JADES-GS-z14-0	False	True
+0	2512.22268	Astrophysics of Galaxies (astro-ph.GA)	False	False	Quenching pathways in the green valley at low redshift: confronting SDSS AGN hosts with IllustrisTNG and EAGLE	True	False
+1	2512.22338	High Energy Astrophysical Phenomena (astro-ph.HE)	False	False	Multi-Messenger Predictions for T Coronae Borealis: Probing Particle Acceleration in Novae	False	False
+3	2512.22354	Earth and Planetary Astrophysics (astro-ph.EP)	False	False	Water Production of Interstellar Comet 3I/ATLAS from SOHO/SWAN Observations after Perihelion	False	False
+5	2512.22365	Earth and Planetary Astrophysics (astro-ph.EP)	False	False	Interstellar Interloper 3I/ATLAS: Nucleus Size, Photometry in RGB, Af(rho) and Antitail Structure Analysis	False	False
+9	2512.22411	Astrophysics of Galaxies (astro-ph.GA)	False	False	On the origin and nature of double-double radio galaxies	False	False
+11	2512.22566	Instrumentation and Methods for Astrophysics (astro-ph.IM)	False	False	Starkindler: An Uncertainty Aware Objective for Photometric Redshift Estimation	False	False
+12	2512.22617	Astrophysics of Galaxies (astro-ph.GA)	False	False	Evidence for a Stratified Accretion Disk Wind in AGN	False	False
+13	2512.22661	Astrophysics of Galaxies (astro-ph.GA)	False	False	Kinematical and Photometric Deconstruction of the UGC 694-IC 412 System: Evidence for a Line-of-Sight Projection	False	False
+15	2512.22685	Astrophysics of Galaxies (astro-ph.GA)	False	False	Lithium abundance and stellar rotation in the Galactic halo and thick disc: Contribution from low-mass giant field stars	False	False
+6	2512.22698	Astrophysics of Galaxies (astro-ph.GA)	True	False	Cloud Properties and Star Formation in M31	False	False
+17	2512.22727	Astrophysics of Galaxies (astro-ph.GA)	False	False	Heavy dark matter in rapidly evolving massive stars	False	False
+3	2512.22751	Astrophysics of Galaxies (astro-ph.GA)	True	False	Rotation and stability of the circumnuclear gas disk in the Galactic Center potential by the ALMA CMZ Exploration Survey (ACES)	False	False
+7	2512.23008	Astrophysics of Galaxies (astro-ph.GA)	True	False	An Empirical Law to Reproduce the Galaxy Rotation Curves	False	False
+27	2512.23060	Astrophysics of Galaxies (astro-ph.GA)	False	False	Finding Quasars behind the Galactic Plane. IV. Candidate Selection from Chandra with Random Forest	False	True
+21	2512.23157	Astrophysics of Galaxies (astro-ph.GA)	True	True	"The GLASS-JWST Early Release Science Program. V. Hα
+luminosity functions at z\sim1.3
+and z\sim2.0"	False	True
+5	2512.23202	Astrophysics of Galaxies (astro-ph.GA)	True	False	MAMMOTH-LyC: Investigating the Role of Galaxy Mergers in a Strong Lyman Continuum Leaker at z=2.39	False	True
+8	2512.23311	Astrophysics of Galaxies (astro-ph.GA)	True	False	The Dependence of the Extinction Coefficient on Reddening for Galactic Cepheids	False	False
+39	2512.23384	Astrophysics of Galaxies (astro-ph.GA)	False	False	SiO emission in the filamentary Infrared Dark Cloud G035.39-00.33: An ALMA view	False	False
+44	2512.23451	Solar and Stellar Astrophysics (astro-ph.SR)	False	False	On Systematic Errors in Cross-Identification of Binary Stars in Gaia	False	False
+45	2512.23452	Astrophysics of Galaxies (astro-ph.GA)	False	False	Detections of Compact Radio Continuum toward Methanol Maser Rings Using the VLA	False	False
+54	2512.23691	Instrumentation and Methods for Astrophysics (astro-ph.IM)	False	False	Galaxy Zoo Evo: 1 million human-annotated images of galaxies	False	False
